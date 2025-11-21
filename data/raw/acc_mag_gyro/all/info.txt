@@ -1,1 +1,0 @@
-The files with the endning '2' are recorded with different pants (i.e., different pocket) and shoes than the training data.

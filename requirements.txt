@@ -1,12 +1,6 @@
-# Core (required)
-numpy>=1.23
-pandas>=1.5
-matplotlib>=3.6
-scikit-learn>=1.2
-jupyter>=1.0
-ipykernel>=6.23
-
-# Optional (uncomment if needed)
-# pyarrow>=12           # enable pd.read_parquet for .parquet files
-# seaborn>=0.12         # nicer plots if you want; not used in the notebook
-# tensorflow>=2.15      # only if you add deep-learning experiments; not required here
+numpy>=1.26.0
+pandas>=2.2.0
+matplotlib>=3.9.0
+scikit-learn>=1.5.0
+tensorflow>=2.17.0
+ipykernel>=6.29.0
