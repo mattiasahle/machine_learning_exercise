@@ -1,6 +1,11 @@
+# Core ML and Data Science Libraries
 numpy>=1.26.0
 pandas>=2.2.0
 matplotlib>=3.9.0
 scikit-learn>=1.5.0
+
+# Deep Learning Framework (includes Keras)
 tensorflow>=2.17.0
+
+# Jupyter Notebook Support
 ipykernel>=6.29.0
