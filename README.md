@@ -15,13 +15,20 @@ Before starting, ensure you have:
 
 ## Setup
 
-### 1. Create Virtual Environment
+### 1. Clone Repository
+
+```bash
+git clone https://github.com/mattiasahle/machine_learning_exercise.git
+cd machine_learning_exercise
+```
+
+### 2. Create Virtual Environment
 
 ```bash
 python3 -m venv venv
 ```
 
-### 2. Activate Virtual Environment
+### 3. Activate Virtual Environment
 
 **Linux/macOS:**
 ```bash
@@ -33,13 +40,13 @@ source venv/bin/activate
 venv\Scripts\activate
 ```
 
-### 3. Install Dependencies
+### 4. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4. Open Notebook in VS Code
+### 5. Open Notebook in VS Code
 
 1. Open `ml_activity_recognition_journey.ipynb`
 2. Click the kernel selector (top-right corner)
